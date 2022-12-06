@@ -86,55 +86,6 @@ h1 {
     padding-right: 15px;
 }
 
-/* 
-.badge.css, .progress-bar.css {
-    background: #000000;
-    color: #ffffff;
-    border: 1px solid #000000;
-}
-
-.badge.html, .progress-bar.html {
-    background: #FF5733;
-}
-
-.badge.js, .progress-bar.js {
-    background: #FFEB3B;
-    color: #000000;
-}
-
-.badge.react, .progress-bar.react {
-    background: #61DBFB;
-}
-
-.badge.php, .progress-bar.php {
-    background: #474A8A;
-}
-
-
-.badge.java, .progress-bar.java {
-    background: #f44336;
-}
-
-.badge.dotnet, .progress-bar.dotnet {
-    background: #8a2be2;
-}
-
-.badge.csh, .progress-bar.csh {
-    background: #9b4993;
-}
-
-.badge.sql, .progress-bar.sql {
-    background: #ffba01;
-}
-
-.badge.ts, .progress-bar.ts {
-    background: #007acc;
-}
-
-.badge.vue, .progress-bar.vue {
-    background: #4caf50;
-}  */
-
 .progress-bar {
     accent-color: yellow;
 }
